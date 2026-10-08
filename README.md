@@ -4,12 +4,12 @@
 
 <div align="center">
   <a href="https://github.com/HankSWillians">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=FF4D6D&center=true&vCenter=true&width=620&lines=Systems+Engineering+Student;Cybersecurity+%C2%B7+AI+%C2%B7+Cloud;Reinforcement+Learning+for+Security;Competitive+Programmer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=FF4D6D&center=true&vCenter=true&width=620&lines=Systems+Engineering+Student;Cybersecurity+%C2%B7+AI+%C2%B7+Cloud;Reinforcement+Learning+for+Security;ICPC+South+America-North+Finalist" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/german-scioville-4128aa3b9/">
+  <a href="https://www.linkedin.com/in/german-scioville/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:germansrivas@gmail.com">
@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/University%20Email-1B3A6B?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAzIDEgOWwxMSA2IDktNC45VjE3aDJWOUwxMiAzek01IDEzLjJ2NEwxMiAyMWw3LTMuOHYtNEwxMiAxN2wtNy0zLjh6Ii8%2BPC9zdmc%2BCg==&logoColor=white" alt="University Email" />
   </a>
   <a href="https://codeforces.com/profile/Scioville">
-    <img src="https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+    <img src="https://img.shields.io/badge/Codeforces-Pupil-77FF77?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=445F9D" alt="Codeforces Pupil" />
   </a>
 </div>
 
@@ -33,7 +33,7 @@ My work sits where **cybersecurity**, **artificial intelligence** and **cloud en
 
 On the engineering side, I enjoy designing clean, secure backends: event-driven, serverless systems on **AWS**, hexagonal architecture, automated testing and **DevSecOps** pipelines with security scanning baked in from the first commit.
 
-For the last **4 years** I've been part of my university's **competitive programming team** (Advanced rank), which taught me to think algorithmically, stay calm under pressure and work as a team when the clock is ticking.
+For the last **4 years** I've been part of my university's **competitive programming team** (Advanced rank), which taught me to think algorithmically, stay calm under pressure and work as a team when the clock is ticking. In October 2026 my team placed **33rd nationally at the ICPC Colombia National Contest** and became an **ICPC South America-North Finalist**. I also compete individually on Codeforces, where I hold the **Pupil** rank.
 
 ```python
 class German:
@@ -43,8 +43,16 @@ class German:
     focus      = ["Cybersecurity", "Artificial Intelligence", "Cloud & DevSecOps"]
     thesis     = "Reinforcement learning agents for cybersecurity"
     languages  = {"Spanish": "Native", "English": "Learning"}
+    icpc       = "ICPC South America-North Finalist (33rd at ICPC Colombia 2026)"
+    codeforces = "Pupil (Scioville)"
     motto      = "Build it, break it, secure it."
 ```
+
+## 🏆 Achievements
+
+- **ICPC South America-North Finalist**: qualified after placing **33rd** at the *XL Maratón Nacional de Programación ACIS/REDIS – ICPC Colombia 2026* (Oct 3, 2026), representing Universidad El Bosque with David Santiago García Preciado and Juan Esteban Martínez Hernández (coach: Diego Fernando Rodríguez Castañeda).
+- **Codeforces Pupil**: max rating 1214 as [Scioville](https://codeforces.com/profile/Scioville).
+- **Competitive programming team, Universidad El Bosque**: 4 years, Advanced rank.
 
 ## 🎯 Interests
 
