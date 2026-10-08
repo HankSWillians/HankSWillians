@@ -33,7 +33,7 @@ My work sits where **cybersecurity**, **artificial intelligence** and **cloud en
 
 On the engineering side, I enjoy designing clean, secure backends: event-driven, serverless systems on **AWS**, hexagonal architecture, automated testing and **DevSecOps** pipelines with security scanning baked in from the first commit.
 
-For the last **4 years** I've been part of my university's **competitive programming team** (Advanced rank), which taught me to think algorithmically, stay calm under pressure and work as a team when the clock is ticking. In October 2026 my team placed **33rd nationally at the ICPC Colombia National Contest** and became an **ICPC South America-North Finalist**. I also compete individually on Codeforces, where I hold the **Pupil** rank.
+For the last **4 years** I've been part of my university's **competitive programming team** (now **Elite** rank), which taught me to think algorithmically, stay calm under pressure and work as a team when the clock is ticking. In October 2026 my team placed **33rd nationally at the ICPC Colombia National Contest** and became an **ICPC South America-North Finalist**. I also compete individually on Codeforces, where I hold the **Pupil** rank.
 
 ```python
 class German:
@@ -52,7 +52,7 @@ class German:
 
 - **ICPC South America-North Finalist**: qualified after placing **33rd** at the *XL Maratón Nacional de Programación ACIS/REDIS – ICPC Colombia 2026* (Oct 3, 2026), representing Universidad El Bosque with David Santiago García Preciado and Juan Esteban Martínez Hernández (coach: Diego Fernando Rodríguez Castañeda).
 - **Codeforces Pupil**: max rating 1214 as [Scioville](https://codeforces.com/profile/Scioville).
-- **Competitive programming team, Universidad El Bosque**: 4 years, Advanced rank.
+- **Elite rank, Universidad El Bosque competitive programming team**: promoted from Advanced after the ICPC South America-North qualification (4 years on the team).
 
 ## 🎯 Interests
 
